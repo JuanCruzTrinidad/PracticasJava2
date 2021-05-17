@@ -1,0 +1,8 @@
+/.classpath
+/.project
+/dao/
+/datos/
+/hibernate.cfg.xml
+/mapeos/
+/negocio/
+/test/
